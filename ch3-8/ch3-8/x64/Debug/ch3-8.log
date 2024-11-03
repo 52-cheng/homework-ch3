@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\t1133\OneDrive\桌面\ch3\ch3-8\ch3-8\main.c(15,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ch3-8.vcxproj -> C:\Users\t1133\OneDrive\桌面\ch3\ch3-8\x64\Debug\ch3-8.exe
